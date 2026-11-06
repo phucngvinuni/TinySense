@@ -7,7 +7,7 @@ const citations = {
             and Chatzinotas, Symeon and Nguyen, Van-Dinh},
   year = {2026},
   note = {Preprint},
-  url = {https://www.alphaxiv.org/abs/2610.tinysense-entropy-aware-wifi-sensing}
+  url = {https://arxiv.org/abs/2601.15838}
 }`,
   base: `@inproceedings{gian2026tinysense,
   title = {TinySense: Effective CSI Compression for

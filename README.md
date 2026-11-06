@@ -5,7 +5,7 @@ Shared project page for TinySense and its entropy-aware extension TinySense+.
 **Website:** https://phucngvinuni.github.io/TinySense/
 
 - **TinySense (IEEE PerCom 2026):** https://arxiv.org/abs/2601.15838
-- **TinySense+ (preprint):** https://www.alphaxiv.org/pdf/2610.tinysense-entropy-aware-wifi-sensing
+- **TinySense+ (preprint):** https://arxiv.org/abs/2601.15838
 - **TinySense code:** https://github.com/Toandinh1/TinySense-PerCom2026
 - **TinySense+ code:** https://github.com/phucngvinuni/TinySensePlus
 
